@@ -1,0 +1,39 @@
+/*div {
+    border: 1px solid red;
+  }*/
+body{background: lightgray;}
+.PartH1{
+    display: flex;
+    justify-content: center;
+    background: white;
+}
+.PartBody{
+    background: white;
+    width: 350px;
+    position: absolute;
+    margin: 100;
+    left: 130px;
+}
+
+.PartTiIm{
+    display: flex;
+    flex-direction: row;
+}
+.PartH3{
+    width: 400px;
+}
+.PartDate{
+    width: 100px;
+}
+.Img{
+    display: flex;
+    justify-content: center;
+}
+
+.PartBody2{
+    top: 550px;
+}
+
+.PartBody3{
+    top: 1010px;
+}
